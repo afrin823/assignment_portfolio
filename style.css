@@ -184,6 +184,7 @@ h4.bn2_h4 {
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
+    padding-bottom: 1%;
 }
 
 .shop_text h2 {
@@ -192,6 +193,7 @@ h4.bn2_h4 {
     font-size: 48px;
     font-weight: 900;
     text-transform: capitalize;
+    padding-bottom: 8px;
 }
 .shop_text p {
     color: rgba(7, 2, 17, 0.60);
@@ -264,7 +266,7 @@ h4.bn2_h4 {
     margin-top: -2%;
 }
 .shop_text {
-    margin-left: 4%;
+    margin: 9% 0 0% 4%;
 }
 /* 
 ======= gift_area End ========= == */
